@@ -57,7 +57,7 @@ Here are the key areas :
 
 I'm always open to collaborations, ideas, or just a friendly chat! You can reach out to me through:
 
-- **Email**: [dhivyagl@gmail.com](mailto:dhivyagl@gmail.com)
+- **Email**: [gldhivya1@gmail.com](mailto:gldhivya1@gmail.com)
 - **LinkedIn**: [Dhivya G L](https://linkedin.com/in/your-profile)
 - **GitHub**: [dhivya-gl](https://github.com/dhivya-gl)
 
