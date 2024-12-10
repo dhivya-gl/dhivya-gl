@@ -2,7 +2,7 @@ Certainly! Here's a more polished and visually appealing version of the `README.
 
 ---
 
---- # ![Dhivya GL](https://via.placeholder.com/150) **Dhivya GL**  
+``` ''' # ![Dhivya GL](https://via.placeholder.com/150) **Dhivya GL**  ''' ```
 
 > *"Passionate about technology, innovation, and solving real-world problems."*
 
