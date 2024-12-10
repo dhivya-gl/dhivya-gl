@@ -16,7 +16,7 @@ Welcome to my  repository!
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Dhivya GL**, a AI and Wen developer with a strong passion for [insert key area of interest, e.g., coding, machine learning, creating scalable web apps]. I believe in continuous learning and using technology to make a positive impact in the world.
+Hello! I'm **Dhivya GL**, a *AI and Web developer* with a strong passion for _coding, machine learning, creating scalable web apps_. I believe in continuous learning and using technology to make a positive impact in the world.
 
 ### 🌟 My Mission
 I strive to build efficient, scalable solutions and contribute meaningfully to the tech community. Whether it's crafting elegant code or collaborating on innovative projects, my goal is always to push boundaries and deliver value.
@@ -25,7 +25,7 @@ I strive to build efficient, scalable solutions and contribute meaningfully to t
 
 ## 🛠 Skills & Expertise
 
-Here are the key areas where I excel:
+Here are the key areas :
 
 ### 💻 **Programming Languages:**
 - Python, JavaScript, Java, C++
@@ -51,37 +51,15 @@ Here are the key areas where I excel:
 
 ---
 
-## 💡 Projects
 
-Here are some of my key projects that showcase my skills and passion:
-
-### 🌟 [**Project 1: Intelligent Task Manager**](https://github.com/your-username/project1)
-- **Description**: An AI-powered task management application that prioritizes your daily tasks based on deadlines and importance. Built with **React** and **TensorFlow**.
-- **Technologies Used**: React, Node.js, TensorFlow, MongoDB
-- **Key Features**:
-  - AI-based task prioritization
-  - Real-time collaboration
-  - User-friendly dashboard
-
-### 🛠️ [**Project 2: Personal Portfolio Website**](https://github.com/your-username/project2)
-- **Description**: My personal portfolio showcasing projects, skills, and contact information. Designed to be a modern, responsive site.
-- **Technologies Used**: HTML, CSS, JavaScript, React
-- **Key Features**:
-  - Fully responsive design
-  - Interactive project showcases
-  - Easy navigation and fast loading
-
-Check out more of my projects on my [GitHub Profile](https://github.com/your-username).
-
----
 
 ## 📧 Contact
 
 I'm always open to collaborations, ideas, or just a friendly chat! You can reach out to me through:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Dhivya GL](https://linkedin.com/in/your-profile)
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: [dhivyagl@gmail.com](mailto:dhivyagl@gmail.com)
+- **LinkedIn**: [Dhivya G L](https://linkedin.com/in/your-profile)
+- **GitHub**: [dhivya-gl](https://github.com/dhivya-gl)
 
 ---
 
@@ -94,12 +72,3 @@ If you're interested in any of my work or have ideas for a new project, don't he
 Thanks for visiting!
 
 ---
-
-This version of the README is designed to be visually appealing with the following enhancements:
-
-- **Icons** and **headings** to visually structure the content.
-- Clear **sections** with professional language to highlight key details.
-- **Project links** and **contact info** to make it easy for others to connect with you.
-- A **personalized quote** at the top to add a human touch.
-
-Feel free to adjust the content, such as the projects and links, based on your specific portfolio and experiences!
