@@ -1,14 +1,8 @@
-Certainly! Here's a more polished and visually appealing version of the `README.md` for Dhivya GL. This version adds some markdown formatting and sections that might be more engaging for users visiting the profile.
 
----
+> ``` *"Passionate about technology, innovation, and solving real-world problems."* ```
 
-(` ``` ''' # ![Dhivya GL](https://via.placeholder.com/150) **Dhivya GL**  ''' ```  `)
+Welcome to my  repository! 
 
-> *"Passionate about technology, innovation, and solving real-world problems."*
-
-Welcome to my personal repository! Here, you'll find details about my work, my skills, and my projects. I'm always excited to learn new things and collaborate with like-minded people. Feel free to explore and connect!
-
----
 
 ## 🚀 Table of Contents
 
@@ -22,7 +16,7 @@ Welcome to my personal repository! Here, you'll find details about my work, my s
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Dhivya GL**, a [your role, e.g., software developer, data scientist, web developer] with a strong passion for [insert key area of interest, e.g., coding, machine learning, creating scalable web apps]. I believe in continuous learning and using technology to make a positive impact in the world.
+Hello! I'm **Dhivya GL**, a AI and Wen developer with a strong passion for [insert key area of interest, e.g., coding, machine learning, creating scalable web apps]. I believe in continuous learning and using technology to make a positive impact in the world.
 
 ### 🌟 My Mission
 I strive to build efficient, scalable solutions and contribute meaningfully to the tech community. Whether it's crafting elegant code or collaborating on innovative projects, my goal is always to push boundaries and deliver value.
