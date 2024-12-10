@@ -1,5 +1,5 @@
 
-> ``` *"Passionate about technology, innovation, and solving real-world problems."* ```
+> ``` **Passionate about technology, innovation, and solving real-world problems.** ```
 
 Welcome to my  repository! 
 
